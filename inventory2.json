@@ -1,0 +1,16 @@
+[ {
+  "itemName" : "book1",
+  "itemId" : 1,
+  "itemqty" : 30,
+  "itemPrice" : 100
+}, {
+  "itemName" : "book2",
+  "itemId" : 2,
+  "itemqty" : 25,
+  "itemPrice" : 150
+}, {
+  "itemName" : "book3",
+  "itemId" : 3,
+  "itemqty" : 10,
+  "itemPrice" : 200
+} ]
